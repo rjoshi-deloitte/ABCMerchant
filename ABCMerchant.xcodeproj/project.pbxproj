@@ -56,10 +56,10 @@
 		61E6600526B450C7002DF630 /* ABCMerchant */ = {
 			isa = PBXGroup;
 			children = (
+				61E6600C26B450C7002DF630 /* Main.storyboard */,
 				61E6600626B450C7002DF630 /* AppDelegate.swift */,
 				61E6600826B450C7002DF630 /* SceneDelegate.swift */,
 				61E6600A26B450C7002DF630 /* ViewController.swift */,
-				61E6600C26B450C7002DF630 /* Main.storyboard */,
 				61E6600F26B450C8002DF630 /* Assets.xcassets */,
 				61E6601126B450C8002DF630 /* LaunchScreen.storyboard */,
 				61E6601426B450C8002DF630 /* Info.plist */,
@@ -287,6 +287,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S94U296ZZU;
 				INFOPLIST_FILE = ABCMerchant/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -305,6 +306,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S94U296ZZU;
 				INFOPLIST_FILE = ABCMerchant/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
